@@ -1,0 +1,5 @@
+{
+    "logDirectory": "./log/",
+    "maxFilesCount": 10,
+    "maxFileSize": 1024
+}
